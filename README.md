@@ -12,7 +12,7 @@
 
 -------------------
 
-### Languages and Tools 
+### Languages
 <table align="center">
   <tr>
     <th>Languages</th>
@@ -35,6 +35,7 @@
         <a href="https://react.dev/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs"/>
         </a>
+        <br/>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
         </a>
